@@ -1,0 +1,22 @@
+.div01 {
+border-top: solid;
+border-left: dashed;
+border-right: double;
+border-bottom: dotted;
+border-width: 5px;
+border-color: blue;
+}
+
+
+.div02{
+border: solid 5px red; 
+margin-top: 100px;
+}
+
+
+.div03{
+    border: solid 5px rgb(21, 255, 0); 
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 50%;
+    }
